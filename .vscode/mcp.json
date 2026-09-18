@@ -8,16 +8,6 @@
 			"type": "http",
 			"url": "https://api.githubcopilot.com/mcp/"
 		},
-		"context7": {
-			"type": "stdio",
-			"command": "npx",
-			"args": [
-				"-y",
-				"@upstash/context7-mcp",
-				"--api-key",
-				"ctx7sk-4ba8dd17-dd77-4bb8-a449-574ba43a8be1"
-			]
-		},
 		"io.github.upstash/context7": {
 			"type": "stdio",
 			"command": "npx",
