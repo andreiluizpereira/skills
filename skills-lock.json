@@ -85,6 +85,12 @@
       "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
       "computedHash": "016f12709bff30a27419e8add978a9be70f5ca1fb6738b3be6793038e0aba631"
     },
+    "kestra-flow": {
+      "source": "kestra-io/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kestra-flow/SKILL.md",
+      "computedHash": "4d61d106c00487507c74ea4daa89b775a573b82c4d51b8cd8823052005d8b2ec"
+    },
     "prototype": {
       "source": "mattpocock/skills",
       "sourceType": "github",

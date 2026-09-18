@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"Kestra": {
+			"url": "https://api.kestra.io/v1/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
